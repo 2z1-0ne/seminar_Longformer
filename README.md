@@ -2,7 +2,7 @@
 
 This repository contains the slides for a research seminar on **Longformer: The Long-Document Transformer**.
 
-The seminar was presented at the **Machine Learning & Bioinformatics Lab, Pusan National University (PNU)** in 2026.
+The seminar was presented at the **Machine Learning & Bioinformatics Lab, Pusan National University (PNU)** in 2025.
 
 <p align="center">
   <img src="longformer_overview.png" width="750">
